@@ -15,7 +15,7 @@ done
 random_folder=$((1 + RANDOM % $2))
 random_subfolder=$((1 + RANDOM % $1))
 
-echo "Enorabuena has conseguido rescatar a $3" > RulsGame/Folder_$random_folder/Subfolder_$random_subfolder/Celda.txt
+echo "Enhorabuena has conseguido rescatar a $3" > RulsGame/Folder_$random_folder/Subfolder_$random_subfolder/Celda.txt
 
 echo "Perfecto, he secuestrado a tu mascota, buscala dentro del directorio "RulsGame" "
 
